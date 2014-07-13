@@ -1,0 +1,11 @@
+{
+	"status": {
+		"before": [
+			"ls -la",
+			"hostname"
+		],
+		"after": [
+			"git status"
+		]
+	}
+}
